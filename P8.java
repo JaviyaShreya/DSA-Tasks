@@ -29,7 +29,6 @@ public class P8 {
         }
         return -1;
     }
-
     public static void main(String[] args) {
         int[] nums = {5, 1, 3};
         int target = 5;

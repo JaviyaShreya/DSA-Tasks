@@ -41,7 +41,6 @@ public class P6 {
 
         return max;
     }
-
     public static void main(String[] args) {
         P6 solution = new P6();
         String s = "(()";  // Example input

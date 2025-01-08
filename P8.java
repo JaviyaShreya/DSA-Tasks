@@ -37,3 +37,9 @@ public class P8 {
         System.out.println(solution.search(nums, target)); // Expected output: 0
     }
 }
+
+
+//The time complexity : O(log n)
+
+//The space complexity : O(1)
+

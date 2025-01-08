@@ -24,3 +24,7 @@ class P9 {
         System.out.println(solution.searchInsert(nums, target));
     }
 }
+
+//The time complexity : O(log n)
+
+//The space complexity : O(1)

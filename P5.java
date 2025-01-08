@@ -23,3 +23,8 @@ public class P5 {
         System.out.println("Second Largest Element: " + result);  // Output the result
     }
 }
+
+//The time complexity : O(n)
+
+//The space complexity : O(1)
+

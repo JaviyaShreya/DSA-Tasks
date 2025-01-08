@@ -49,3 +49,9 @@ public class P6 {
         System.out.println("Longest Valid Parentheses Length: " + result);  // Output the result
     }
 }
+
+//The time complexity : O(n)
+
+//The space complexity : O(1)
+
+

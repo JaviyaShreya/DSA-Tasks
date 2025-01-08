@@ -24,6 +24,7 @@ public class P5 {
     }
 }
 
+
 //The time complexity : O(n)
 
 //The space complexity : O(1)
